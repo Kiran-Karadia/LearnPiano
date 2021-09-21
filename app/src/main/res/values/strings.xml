@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LearnPiano</string>
+    <string name="btnStartString">Start!</string>
+    <string name="txtWelcomeMessageString">This is the second screen.</string>
+    <string name="btnAString">A</string>
+    <string name="btnBString">B</string>
+    <string name="btnCString">C</string>
+    <string name="btnDString">D</string>
+    <string name="btnEString">E</string>
+    <string name="btnFString">F</string>
+    <string name="btnGString">G</string>
+    <string name="txtScore">Score: </string>
+</resources>
